@@ -1,0 +1,26 @@
+{
+  "user": "admin@example.com",
+  "events": [
+    {
+      "timestamp": "2025-02-11T09:12:09Z",
+      "event": "LOGIN_SUCCESS",
+      "ip": "201.180.122.44",
+      "location": "Mexico City, MX",
+      "device": "Chrome on Windows"
+    },
+    {
+      "timestamp": "2025-02-11T09:15:02Z",
+      "event": "LOGIN_SUCCESS",
+      "ip": "103.221.88.14",
+      "location": "New Delhi, India",
+      "device": "Firefox on Linux"
+    },
+    {
+      "timestamp": "2025-02-11T09:26:44Z",
+      "event": "PASSWORD_CHANGE",
+      "ip": "103.221.88.14",
+      "location": "New Delhi, India"
+    }
+  ]
+}
+
