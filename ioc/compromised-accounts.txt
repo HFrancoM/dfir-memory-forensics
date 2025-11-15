@@ -1,0 +1,4 @@
+admin@example.com       # Primary DNS administrator account
+webmaster@example.com   # Webflow CMS admin account
+support@example.com     # HostGator mailbox affected by MX change
+
