@@ -1,0 +1,7 @@
+[2025-02-11 09:13:21 UTC] LOGIN SUCCESS - User: admin@example.com - IP: 201.180.122.44 - Country: Mexico - Device: Chrome/Windows
+[2025-02-11 09:15:49 UTC] LOGIN FAILED - User: admin@example.com - IP: 103.221.88.14 - Country: India - Device: Firefox/Linux
+[2025-02-11 09:16:03 UTC] LOGIN SUCCESS - User: admin@example.com - IP: 103.221.88.14 - Country: India - Device: Firefox/Linux
+[2025-02-11 09:18:47 UTC] DNS MODIFICATION - A Record Changed - domain: example.com - Previous: 34.72.18.11 → New: 185.218.126.92
+[2025-02-11 09:19:01 UTC] DNS MODIFICATION - MX Record Updated - Previous: mail.hostgator.com → New: malicious.mxserver.cc
+[2025-02-11 09:22:10 UTC] LOGOUT - User: admin@example.com - IP: 103.221.88.14
+
