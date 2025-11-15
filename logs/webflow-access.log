@@ -1,0 +1,5 @@
+[2025-02-11 09:05:12 UTC] LOGIN SUCCESS - User: webmaster@example.com - IP: 201.180.122.44 - Country: Mexico
+[2025-02-11 09:07:33 UTC] SETTINGS VIEWED - User: webmaster@example.com - Page: DNS instructions
+[2025-02-11 09:16:41 UTC] LOGIN FAILED - User: webmaster@example.com - IP: 103.221.88.14 - Country: India
+[2025-02-11 09:20:15 UTC] LOGIN FAILED - User: webmaster@example.com - IP: 201.180.122.44 - Wrong password
+
