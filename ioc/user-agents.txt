@@ -1,0 +1,3 @@
+Chrome/114.0.5735.110 (Windows NT 10.0; Win64; x64)   # Legitimate admin device
+Firefox/110.0 (X11; Linux x86_64)                     # Suspicious login device (India)
+
