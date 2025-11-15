@@ -1,0 +1,5 @@
+103.221.88.14    # India – suspicious login origin, Firefox/Linux
+185.218.126.92   # IP used to redirect DNS A record
+45.67.98.201     # Possible C2 infrastructure (simulated)
+201.180.122.44   # Mexico – legitimate admin IP for correlation
+

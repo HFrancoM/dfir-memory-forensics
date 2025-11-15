@@ -1,0 +1,4 @@
+malicious.mxserver.cc    # Unauthorized MX record target
+compromised-update.net   # Simulated domain for phishing/C2
+login-auth-reset.com     # Simulated credential theft domain
+
