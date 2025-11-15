@@ -1,0 +1,6 @@
+# Potential RAT / malware hashes (simulated)
+sha256: 81b9f7a02e99bfb42d2193adcfe18bbadc79dc8ab87c7dee12391cbc62047195
+sha256: 4da05b7a113ad9cb2bb9fcd5df14c0dea89af02ae7b853a32bc63b845e9cc077
+sha1:   6f5902ac237024bdd0c176cb93063dc4
+md5:    827ccb0eea8a706c4c34a16891f84e7b
+
