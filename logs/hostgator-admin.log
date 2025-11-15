@@ -1,0 +1,6 @@
+[2025-02-11 09:23:45 UTC] EMAIL FAILURE - Unable to deliver messages for domain example.com - MX misconfiguration detected
+[2025-02-11 09:24:03 UTC] ADMIN LOGIN SUCCESS - User: admin@example.com - IP: 201.180.122.44 - Country: Mexico
+[2025-02-11 09:24:55 UTC] EMAIL QUEUE GROWTH - 143 pending outbound messages
+[2025-02-11 09:26:11 UTC] AUTH SETTING WARNING - “External Access” enabled for user admin@example.com
+[2025-02-11 09:28:09 UTC] LOGIN FAILED - User: admin@example.com - IP: 103.221.88.14 - Country: India
+
